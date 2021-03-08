@@ -1,0 +1,149 @@
+21.3229 	WARNING 	Monitor specification not found. Creating a temporary one...
+23.1377 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x7f872dea6cb0>, name='window1', pos=[0, 0], screen=1, size=array([1024,  768]), stereo=False, units='pix', useFBO=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+23.1818 	EXP 	Created stim/familiar/id1_a1.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id1_a1.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id1_a1.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.2190 	EXP 	Created stim/familiar/id1_a2.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id1_a2.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id1_a2.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.2564 	EXP 	Created stim/familiar/id1_a3.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id1_a3.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id1_a3.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.2985 	EXP 	Created stim/familiar/id1_a4.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id1_a4.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id1_a4.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.3359 	EXP 	Created stim/familiar/id1_a5.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id1_a5.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id1_a5.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.3740 	EXP 	Created stim/familiar/id2_a1.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id2_a1.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id2_a1.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.4117 	EXP 	Created stim/familiar/id2_a2.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id2_a2.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id2_a2.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.4503 	EXP 	Created stim/familiar/id2_a3.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id2_a3.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id2_a3.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.4822 	EXP 	Created stim/familiar/id2_a4.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id2_a4.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id2_a4.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.5133 	EXP 	Created stim/familiar/id2_a5.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id2_a5.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id2_a5.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.5446 	EXP 	Created stim/familiar/id3_a1.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id3_a1.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id3_a1.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.5752 	EXP 	Created stim/familiar/id3_a2.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id3_a2.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id3_a2.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.6054 	EXP 	Created stim/familiar/id3_a3.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id3_a3.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id3_a3.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.6362 	EXP 	Created stim/familiar/id3_a4.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id3_a4.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id3_a4.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.6666 	EXP 	Created stim/familiar/id3_a5.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id3_a5.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id3_a5.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.6981 	EXP 	Created stim/familiar/id4_a1.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id4_a1.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id4_a1.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.7290 	EXP 	Created stim/familiar/id4_a2.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id4_a2.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id4_a2.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.7619 	EXP 	Created stim/familiar/id4_a3.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id4_a3.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id4_a3.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.7925 	EXP 	Created stim/familiar/id4_a4.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id4_a4.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id4_a4.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.8227 	EXP 	Created stim/familiar/id4_a5.png = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='stim/familiar/id4_a5.png', interpolate=False, mask=None, maskParams=None, name='stim/familiar/id4_a5.png', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 600.,  600.]), texRes=128, units='pix', win=Window(...))
+23.9901 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 0.,  0.,  0.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'+', units='pix', win=Window(...), wrapWidth=500)
+24.0671 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=unicode(...), units='pix', win=Window(...), wrapWidth=500)
+457.1683 	EXP 	START OF EXPERIMENT
+472.2023 	EXP 	STIM: 7
+472.2429 	EXP 	stim/familiar/id2_a2.png: pos = array([ 6.26973633, -7.1805688 ])
+472.2429 	EXP 	stim/familiar/id2_a2.png: size = array([ 453.6233067,  453.6233067])
+472.8614 	EXP 	stim/familiar/id2_a2.png: pos = array([ 7.34839587,  4.5787677 ])
+473.4800 	EXP 	stim/familiar/id2_a2.png: pos = array([ 1.94140442, -5.79691173])
+474.0485 	INFO 	TRIGGER
+474.0485 	INFO 	TRIGGER
+474.0486 	INFO 	TRIGGER
+474.0486 	INFO 	TRIGGER
+474.0486 	INFO 	TRIGGER
+474.0487 	INFO 	TRIGGER
+474.0487 	INFO 	TRIGGER
+474.0487 	INFO 	TRIGGER
+474.0488 	INFO 	TRIGGER
+474.0488 	INFO 	TRIGGER
+474.0488 	INFO 	TRIGGER
+474.0489 	INFO 	TRIGGER
+474.0489 	INFO 	TRIGGER
+474.6691 	INFO 	TRIGGER
+475.9192 	INFO 	TRIGGER
+477.1692 	INFO 	TRIGGER
+477.2070 	EXP 	STIM: 7
+477.2415 	EXP 	stim/familiar/id2_a2.png: pos = array([ 7.8227104 ,  3.45204667])
+477.2415 	EXP 	stim/familiar/id2_a2.png: size = array([ 518.22160555,  518.22160555])
+477.8603 	EXP 	stim/familiar/id2_a2.png: pos = array([-0.88781155,  6.89522401])
+478.4795 	EXP 	stim/familiar/id2_a2.png: pos = array([ 8.64208047,  8.88821449])
+479.0474 	INFO 	TRIGGER
+479.3533 	DATA 	RESPONSE: 1
+479.6693 	INFO 	TRIGGER
+480.9194 	INFO 	TRIGGER
+482.1694 	INFO 	TRIGGER
+482.2077 	EXP 	STIM: 0
+482.2410 	EXP 	0
+487.2093 	EXP 	STIM: 1
+487.2398 	EXP 	stim/familiar/id1_a1.png: pos = array([-4.47987277, -0.46624228])
+487.2398 	EXP 	stim/familiar/id1_a1.png: size = array([ 548.69837225,  548.69837225])
+487.8575 	EXP 	stim/familiar/id1_a1.png: pos = array([-7.12741639, -6.14830645])
+488.4767 	EXP 	stim/familiar/id1_a1.png: pos = array([-2.31250517,  0.63652975])
+489.0482 	INFO 	TRIGGER
+489.0482 	INFO 	TRIGGER
+489.0483 	INFO 	TRIGGER
+489.0483 	INFO 	TRIGGER
+489.0483 	INFO 	TRIGGER
+489.6698 	INFO 	TRIGGER
+489.9559 	DATA 	RESPONSE: 2
+490.9199 	INFO 	TRIGGER
+492.1699 	INFO 	TRIGGER
+492.2109 	EXP 	STIM: 10
+492.2374 	EXP 	stim/familiar/id2_a5.png: pos = array([-7.88694556,  7.58234816])
+492.2374 	EXP 	stim/familiar/id2_a5.png: size = array([ 537.72300459,  537.72300459])
+492.8569 	EXP 	stim/familiar/id2_a5.png: pos = array([ 1.01835501, -6.01465174])
+493.4754 	EXP 	stim/familiar/id2_a5.png: pos = array([-7.42698538,  3.51544929])
+494.0433 	INFO 	TRIGGER
+494.6030 	DATA 	RESPONSE: 2
+494.6700 	INFO 	TRIGGER
+495.9201 	INFO 	TRIGGER
+497.1692 	INFO 	TRIGGER
+497.2121 	EXP 	STIM: 14
+497.2528 	EXP 	stim/familiar/id3_a4.png: pos = array([ 1.26609334,  1.41819796])
+497.2528 	EXP 	stim/familiar/id3_a4.png: size = array([ 509.32137624,  509.32137624])
+497.8718 	EXP 	stim/familiar/id3_a4.png: pos = array([-2.57389504, -3.54708848])
+498.4906 	EXP 	stim/familiar/id3_a4.png: pos = array([ 8.31124213,  4.15836194])
+499.0590 	INFO 	TRIGGER
+499.6293 	DATA 	RESPONSE: 2
+499.6703 	INFO 	TRIGGER
+500.9193 	INFO 	TRIGGER
+502.1704 	INFO 	TRIGGER
+502.2133 	EXP 	STIM: 18
+502.2521 	EXP 	stim/familiar/id4_a3.png: pos = array([-3.53377633,  6.48786242])
+502.2521 	EXP 	stim/familiar/id4_a3.png: size = array([ 461.57773433,  461.57773433])
+502.8708 	EXP 	stim/familiar/id4_a3.png: pos = array([-0.25028357,  6.50956628])
+503.4887 	EXP 	stim/familiar/id4_a3.png: pos = array([ 7.2827167 ,  9.46903074])
+504.0580 	INFO 	TRIGGER
+504.6695 	INFO 	TRIGGER
+504.6855 	DATA 	RESPONSE: 2
+505.9206 	INFO 	TRIGGER
+507.1696 	INFO 	TRIGGER
+507.2143 	EXP 	STIM: 20
+507.2500 	EXP 	stim/familiar/id4_a5.png: pos = array([ 5.68211158, -4.30866809])
+507.2500 	EXP 	stim/familiar/id4_a5.png: size = array([ 525.15255623,  525.15255623])
+507.8691 	EXP 	stim/familiar/id4_a5.png: pos = array([-4.7717755 ,  9.96367537])
+508.4872 	EXP 	stim/familiar/id4_a5.png: pos = array([-6.84889393, -6.86685934])
+509.0562 	INFO 	TRIGGER
+509.5998 	DATA 	RESPONSE: 1
+509.6697 	INFO 	TRIGGER
+510.9198 	INFO 	TRIGGER
+512.1699 	INFO 	TRIGGER
+512.2155 	EXP 	STIM: 6
+512.2495 	EXP 	stim/familiar/id2_a1.png: pos = array([ 9.62168305, -9.15157592])
+512.2495 	EXP 	stim/familiar/id2_a1.png: size = array([ 482.48799384,  482.48799384])
+512.8681 	EXP 	stim/familiar/id2_a1.png: pos = array([-7.98526122,  1.94857143])
+513.4860 	EXP 	stim/familiar/id2_a1.png: pos = array([-3.30193126,  7.44149097])
+514.0551 	INFO 	TRIGGER
+514.6700 	INFO 	TRIGGER
+515.1690 	DATA 	RESPONSE: 2
+515.9201 	INFO 	TRIGGER
+517.1702 	INFO 	TRIGGER
+517.2165 	EXP 	STIM: 15
+517.2472 	EXP 	stim/familiar/id3_a5.png: pos = array([ 4.72127845, -9.90505531])
+517.2472 	EXP 	stim/familiar/id3_a5.png: size = array([ 471.05055238,  471.05055238])
+517.8667 	EXP 	stim/familiar/id3_a5.png: pos = array([ 1.59600582,  2.8490816 ])
+518.4849 	EXP 	stim/familiar/id3_a5.png: pos = array([ 3.48269355,  7.31527647])
+519.0535 	INFO 	TRIGGER
+519.5372 	DATA 	RESPONSE: 2
+519.6702 	INFO 	TRIGGER
+520.9203 	INFO 	TRIGGER
+522.1703 	INFO 	TRIGGER
+522.2175 	EXP 	STIM: 3
+522.2467 	EXP 	stim/familiar/id1_a3.png: pos = array([ 1.45943357, -4.48614603])
+522.2467 	EXP 	stim/familiar/id1_a3.png: size = array([ 546.44715312,  546.44715312])
+522.8653 	EXP 	stim/familiar/id1_a3.png: pos = array([-3.46868809, -1.85781155])
+523.4838 	EXP 	stim/familiar/id1_a3.png: pos = array([-8.77049876, -7.58974717])
+524.0524 	INFO 	TRIGGER
+524.5285 	DATA 	RESPONSE: 2
+524.6704 	INFO 	TRIGGER
+525.9205 	INFO 	TRIGGER
+527.1706 	INFO 	TRIGGER
+527.2187 	EXP 	STIM: 16
+527.2445 	EXP 	stim/familiar/id4_a1.png: pos = array([ 4.06699169,  8.59059878])
+527.2445 	EXP 	stim/familiar/id4_a1.png: size = array([ 511.05905502,  511.05905502])
+527.8639 	EXP 	stim/familiar/id4_a1.png: pos = array([-4.64553679, -1.30045949])
+528.4825 	EXP 	stim/familiar/id4_a1.png: pos = array([ 9.59219299, -2.17594441])
+529.0507 	INFO 	TRIGGER
+529.6267 	DATA 	RESPONSE: 2

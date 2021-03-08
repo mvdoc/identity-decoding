@@ -1,0 +1,125 @@
+onset	duration	stim_type	stim_file
+0.01	12.02	fixation	
+12.06	1.51	object	Newton.mpg
+14.05	1.51	object	globe.mpg
+16.06	1.53	object	globe.mpg
+18.07	1.51	object	candle.mpg
+20.06	1.51	object	washing.mpg
+22.06	1.51	object	trafflight.mpg
+24.07	12.02	fixation	
+36.10	1.51	face	M01S.avi
+38.09	1.53	face	F06H.avi
+40.10	1.51	face	F01H.avi
+42.11	1.51	face	M08H.avi
+44.10	1.53	face	M08H.avi
+46.10	1.54	face	F10S.avi
+48.09	12.02	fixation	
+60.13	1.51	face	F05H.avi
+60.48	0.00	button_press	
+62.12	1.53	face	M09H.avi
+64.12	1.53	face	M06H.avi
+66.13	1.51	face	F10H.avi
+68.12	1.53	face	F10H.avi
+70.12	1.53	face	M05S.avi
+72.12	12.02	fixation	
+84.15	1.51	object	recplayer.mpg
+86.14	1.51	object	fountain.mpg
+87.65	0.00	button_press	
+88.15	1.51	object	roulette.mpg
+90.15	1.51	object	falls.mpg
+92.14	1.53	object	falls.mpg
+94.15	1.51	object	cigarette.mpg
+96.16	12.02	fixation	
+108.19	1.51	object	goround.mpg
+110.18	1.53	object	kettle.mpg
+112.19	1.51	object	top.mpg
+114.19	1.49	object	top.mpg
+116.18	1.51	object	scale.mpg
+118.19	1.51	object	piano.mpg
+120.18	12.02	fixation	
+132.21	1.71	face	M02S.avi
+134.20	1.51	face	F09H.avi
+135.43	0.00	button_press	
+136.21	1.51	face	F08H.avi
+138.22	1.51	face	F08H.avi
+140.21	1.51	face	F01S.avi
+142.21	1.51	face	M04S.avi
+144.20	12.02	fixation	
+156.24	1.51	face	M08S.avi
+157.45	0.00	button_press	
+158.23	1.51	face	F02S.avi
+160.23	1.51	face	M07S.avi
+162.24	1.51	face	M07S.avi
+164.23	1.51	face	M02H.avi
+166.24	1.51	face	M06S.avi
+168.23	12.02	fixation	
+180.26	1.51	object	fly.mpg
+181.96	0.00	button_press	
+182.25	1.51	object	opener.mpg
+184.26	1.51	object	opener.mpg
+186.26	1.49	object	stopwatch.mpg
+188.25	1.51	object	coffee.mpg
+190.26	1.51	object	discs.mpg
+192.25	12.02	fixation	
+204.28	1.51	object	leaves.mpg
+205.51	0.00	button_press	
+206.27	1.51	object	ventilator.mpg
+208.28	1.51	object	plant.mpg
+210.29	1.51	object	plant.mpg
+212.28	1.51	object	eggs.mpg
+214.28	1.51	object	tennis.mpg
+216.27	12.02	fixation	
+227.58	0.00	button_press	
+228.31	1.53	face	F06S.avi
+230.30	1.51	face	F07H.avi
+232.30	1.51	face	F05S.avi
+234.31	1.51	face	F04S.avi
+236.30	1.51	face	M04H.avi
+238.31	1.51	face	M04H.avi
+240.30	12.02	fixation	
+252.33	1.51	face	M03S.avi
+253.39	0.00	button_press	
+254.32	1.51	face	M03H.avi
+256.33	1.51	face	M10H.avi
+258.33	1.51	face	M10H.avi
+260.32	1.51	face	M01H.avi
+262.33	1.51	face	M09S.avi
+264.32	12.02	fixation	
+276.36	1.51	object	flower.mpg
+278.35	1.51	object	flower.mpg
+280.35	1.51	object	scale2.mpg
+282.36	1.51	object	windmill.mpg
+284.35	1.51	object	signal.mpg
+286.35	1.51	object	toilet.mpg
+288.35	12.02	fixation	
+300.38	1.49	object	tire.mpg
+302.11	0.00	button_press	
+302.37	1.53	object	flag.mpg
+304.37	1.51	object	flag.mpg
+306.38	1.51	object	fire.mpg
+308.37	1.51	object	water.mpg
+310.38	1.51	object	blender.mpg
+312.37	12.02	fixation	
+324.40	1.51	face	M10S.avi
+326.39	1.51	face	F08S.avi
+328.40	1.51	face	F08S.avi
+330.40	1.51	face	F04H.avi
+332.39	1.51	face	M05H.avi
+334.40	1.51	face	F09S.avi
+336.39	12.02	fixation	
+347.43	0.00	button_press	
+348.43	1.51	face	M07H.avi
+350.42	1.51	face	F02H.avi
+352.42	1.51	face	F03H.avi
+354.43	1.51	face	F03H.avi
+356.42	1.51	face	F07S.avi
+358.42	1.51	face	F03S.avi
+360.42	12.02	fixation	
+372.45	1.51	object	jiffy.mpg
+372.84	0.00	button_press	
+374.44	1.51	object	fun.mpg
+376.45	1.51	object	fireworks.mpg
+378.45	1.49	object	sewing.mpg
+380.44	1.51	object	sewing.mpg
+382.45	1.51	object	juice.mpg
+384.44	12.02	fixation	
