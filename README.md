@@ -34,7 +34,7 @@ This folder contains the python package `famfaceangles` with helper functions us
 This folder contains the following scripts
 
 **Preprocessing**
-* 00preproc/run-fmriprep103-singularity.sh
+* `<00preproc/run-fmriprep103-singularity.sh/>`
 * 00preproc/prepare-fsaverage6-suma.sh
 * 00preproc/make-maskmedial-fsaverage6.sh
 
