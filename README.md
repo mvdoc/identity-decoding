@@ -50,11 +50,10 @@ This folder contains the following scripts
 #### GLM
 
 * [`02glm/run_glm_model.py`](scripts/02glm/run_glm_model.py)
-* [`02glm/run_glm_localizer_singularity.sh`](scripts/02glm/run_glm_localizer_singularity.sh)
+* [`02glm/run_glm_blockrun_singularity.sh`](scripts/02glm/run_glm_blockrun_singularity.sh)
+* [`02glm/run_glm_blockrun_hpal_singularity.sh`](scripts/02glm/run_glm_blockrun_hpal_singularity.sh)
 * [`02glm/run_glm_localizer_bwsj.py`](scripts/02glm/run_glm_localizer_bwsj.py)
 * [`02glm/run_glm_localizer_bwsj_singularity.sh`](scripts/02glm/run_glm_localizer_bwsj_singularity.sh)
-* [`02glm/run_glm_blockrun_hpal_singularity.sh`](scripts/02glm/run_glm_blockrun_hpal_singularity.sh)
-* [`02glm/run_glm_blockrun_singularity.sh`](scripts/02glm/run_glm_blockrun_singularity.sh)
 * [`02glm/workflows.py`](scripts/02glm/workflows.py)
 
 #### MVPA
