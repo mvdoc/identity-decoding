@@ -40,54 +40,64 @@ This folder contains the following scripts
 
 #### Hyperalignment
 
-* [`01hyperalignment/apply_hpal.py`](scripts/01hyperalignment/apply_hpal.py)
-* [`01hyperalignment/run_preproc_hpal_singularity.sh`](scripts/01hyperalignment/run_preproc_hpal_singularity.sh)
-* [`01hyperalignment/run_hpal_singularity.sh`](scripts/01hyperalignment/run_hpal_singularity.sh)
-* [`01hyperalignment/apply_hpal_singularity.sh`](scripts/01hyperalignment/apply_hpal_singularity.sh)
 * [`01hyperalignment/run_preproc_hpal.py`](scripts/01hyperalignment/run_preproc_hpal.py)
+* [`01hyperalignment/run_preproc_hpal_singularity.sh`](scripts/01hyperalignment/run_preproc_hpal_singularity.sh)
 * [`01hyperalignment/run_hpal.py`](scripts/01hyperalignment/run_hpal.py)
+* [`01hyperalignment/run_hpal_singularity.sh`](scripts/01hyperalignment/run_hpal_singularity.sh)
+* [`01hyperalignment/apply_hpal.py`](scripts/01hyperalignment/apply_hpal.py)
+* [`01hyperalignment/apply_hpal_singularity.sh`](scripts/01hyperalignment/apply_hpal_singularity.sh)
 
 #### GLM
 
-* [`02glm/run_glm_blockrun_singularity.sh`](scripts/02glm/run_glm_blockrun_singularity.sh)
-* [`02glm/run_glm_localizer_bwsj.py`](scripts/02glm/run_glm_localizer_bwsj.py)
 * [`02glm/run_glm_model.py`](scripts/02glm/run_glm_model.py)
 * [`02glm/run_glm_localizer_singularity.sh`](scripts/02glm/run_glm_localizer_singularity.sh)
+* [`02glm/run_glm_localizer_bwsj.py`](scripts/02glm/run_glm_localizer_bwsj.py)
 * [`02glm/run_glm_localizer_bwsj_singularity.sh`](scripts/02glm/run_glm_localizer_bwsj_singularity.sh)
-* [`02glm/workflows.py`](scripts/02glm/workflows.py)
 * [`02glm/run_glm_blockrun_hpal_singularity.sh`](scripts/02glm/run_glm_blockrun_hpal_singularity.sh)
+* [`02glm/run_glm_blockrun_singularity.sh`](scripts/02glm/run_glm_blockrun_singularity.sh)
+* [`02glm/workflows.py`](scripts/02glm/workflows.py)
 
 #### MVPA
 
-* [`03mvpa/run_sl_roi.py`](scripts/03mvpa/run_sl_roi.py)
-* [`03mvpa/run_bwsj_roi_v2_singularity.sh`](scripts/03mvpa/run_bwsj_roi_v2_singularity.sh)
-* [`03mvpa/run_rsa_target_singularity.sh`](scripts/03mvpa/run_rsa_target_singularity.sh)
-* [`03mvpa/run_sl_bwsbj_singularity.sh`](scripts/03mvpa/run_sl_bwsbj_singularity.sh)
-* [`03mvpa/run_sl_blockrun_singularity.sh`](scripts/03mvpa/run_sl_blockrun_singularity.sh)
-* [`03mvpa/run_rsa_target.py`](scripts/03mvpa/run_rsa_target.py)
+Between-subject searchlight decoding
 * [`03mvpa/run_sl_bwsbj.py`](scripts/03mvpa/run_sl_bwsbj.py)
-* [`03mvpa/run_sl_blockrun_permutation_singularity.sh`](scripts/03mvpa/run_sl_blockrun_permutation_singularity.sh)
-* [`03mvpa/run_bwsj_roi_v2.py`](scripts/03mvpa/run_bwsj_roi_v2.py)
+* [`03mvpa/run_sl_bwsbj_singularity.sh`](scripts/03mvpa/run_sl_bwsbj_singularity.sh)
 * [`03mvpa/run_sl_bwsbj_fsaverage6_singularity.sh`](scripts/03mvpa/run_sl_bwsbj_fsaverage6_singularity.sh)
-* [`03mvpa/run_sl_cvrsa_blockrun_singularity.sh`](scripts/03mvpa/run_sl_cvrsa_blockrun_singularity.sh)
+
+Between-subject ROI decoding
+* [`03mvpa/run_bwsj_roi_v2.py`](scripts/03mvpa/run_bwsj_roi_v2.py)
+* [`03mvpa/run_bwsj_roi_v2_singularity.sh`](scripts/03mvpa/run_bwsj_roi_v2_singularity.sh)
+
+Within-subject searchlight decoding
+* [`03mvpa/run_sl.py`](scripts/03mvpa/run_sl.py)
+* [`03mvpa/run_sl_blockrun_singularity.sh`](scripts/03mvpa/run_sl_blockrun_singularity.sh)
+* [`03mvpa/run_sl_blockrun_permutation_singularity.sh`](scripts/03mvpa/run_sl_blockrun_permutation_singularity.sh)
+
+Cross-validated RSA
 * [`03mvpa/run_sl_cvrsa.py`](scripts/03mvpa/run_sl_cvrsa.py)
+* [`03mvpa/run_sl_cvrsa_blockrun_singularity.sh`](scripts/03mvpa/run_sl_cvrsa_blockrun_singularity.sh)
+* [`03mvpa/run_rsa_target.py`](scripts/03mvpa/run_rsa_target.py)
+* [`03mvpa/run_rsa_target_singularity.sh`](scripts/03mvpa/run_rsa_target_singularity.sh)
 
 #### Statistics
 
-* [`04stat/run_tfce_fsaverage6_cosmo.m`](scripts/04stat/run_tfce_fsaverage6_cosmo.m)
+Permutation testing for between-subject MVPC
+* [`04stat/run_permtest_bootstrap.py`](scripts/04stat/run_permtest_bootstrap.py)
 * [`04stat/run_permtest_bwsbj_bootstrap_singularity.sh`](scripts/04stat/run_permtest_bwsbj_bootstrap_singularity.sh)
 * [`04stat/make_fam-diff_bwsj_identity.sh`](scripts/04stat/make_fam-diff_bwsj_identity.sh)
-* [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh)
 * [`04stat/run_permtest_famdiff_bwsbj_bootstrap_singularity.sh`](scripts/04stat/run_permtest_famdiff_bwsbj_bootstrap_singularity.sh)
-* [`04stat/make_thresholded_avg_cvrsa_fsaverage6_all.sh`](scripts/04stat/make_thresholded_avg_cvrsa_fsaverage6_all.sh)
 * [`04stat/make-maskfdrval-diff-identity-bsmvpc.sh`](scripts/04stat/make-maskfdrval-diff-identity-bsmvpc.sh)
-* [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal_all.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal_all.sh)
+
+Threshold-Free Cluster Enhancement for RSA and within-subject MVPC
+* [`04stat/run_tfce_fsaverage6_cosmo.m`](scripts/04stat/run_tfce_fsaverage6_cosmo.m)
 * [`04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh`](scripts/04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh)
+* [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh)
+* [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal_all.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal_all.sh)
 * [`04stat/run_tfce_cvrsa_fsaverage6_cosmo.m`](scripts/04stat/run_tfce_cvrsa_fsaverage6_cosmo.m)
-* [`04stat/run_permtest_bootstrap.py`](scripts/04stat/run_permtest_bootstrap.py)
 * [`04stat/run_tfce_cvrsa_fsaverage6_cosmo_singularity.sh`](scripts/04stat/run_tfce_cvrsa_fsaverage6_cosmo_singularity.sh)
-* [`04stat/make_thresholded_avg_cvrsa_fsaverage6_singularity.sh`](scripts/04stat/make_thresholded_avg_cvrsa_fsaverage6_singularity.sh)
 * [`04stat/make_thresholded_avg_cvrsa_fsaverage6.sh`](scripts/04stat/make_thresholded_avg_cvrsa_fsaverage6.sh)
+* [`04stat/make_thresholded_avg_cvrsa_fsaverage6_singularity.sh`](scripts/04stat/make_thresholded_avg_cvrsa_fsaverage6_singularity.sh)
+* [`04stat/make_thresholded_avg_cvrsa_fsaverage6_all.sh`](scripts/04stat/make_thresholded_avg_cvrsa_fsaverage6_all.sh)
 
 #### Visualization
 
