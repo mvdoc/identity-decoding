@@ -87,7 +87,7 @@ Permutation testing for between-subject MVPC
 * [`04stat/run_permtest_famdiff_bwsbj_bootstrap_singularity.sh`](scripts/04stat/run_permtest_famdiff_bwsbj_bootstrap_singularity.sh)
 * [`04stat/make-maskfdrval-diff-identity-bsmvpc.sh`](scripts/04stat/make-maskfdrval-diff-identity-bsmvpc.sh)
 
-Threshold-Free Cluster Enhancement for RSA and within-subject MVPC
+Threshold-Free Cluster Enhancement for within-subject MVPC and RSA
 * [`04stat/run_tfce_fsaverage6_cosmo.m`](scripts/04stat/run_tfce_fsaverage6_cosmo.m)
 * [`04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh`](scripts/04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh)
 * [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh)
