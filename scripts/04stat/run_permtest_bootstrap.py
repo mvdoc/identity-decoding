@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Script to run bootstrapping on permuted maps. It returns the
-uncorrected **one-tailed** p-vals computed from bootstrapping null maps,
+uncorrected p-vals computed from bootstrapping null maps,
 as well as FDR corrected p-vals"""
 import argparse
 from mvpa2.suite import *
