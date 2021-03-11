@@ -59,21 +59,25 @@ This folder contains the following scripts
 #### MVPA
 
 Between-subject searchlight decoding
+
 * [`03mvpa/run_sl_bwsbj.py`](scripts/03mvpa/run_sl_bwsbj.py) runs between-subject whole-brain searchlight decoding.
 * [`03mvpa/run_sl_bwsbj_singularity.sh`](scripts/03mvpa/run_sl_bwsbj_singularity.sh) shows an example call with singularity on hyperaligned data.
 * [`03mvpa/run_sl_bwsbj_fsaverage6_singularity.sh`](scripts/03mvpa/run_sl_bwsbj_fsaverage6_singularity.sh) shows an example call with singularity on anatomically-aligned data.
 
 Between-subject ROI decoding
+
 * [`03mvpa/run_bwsj_roi_v2.py`](scripts/03mvpa/run_bwsj_roi_v2.py) runs between-subject decoding analyses within manually defined ROIs.
 * [`03mvpa/run_bwsj_roi_v2_singularity.sh`](scripts/03mvpa/run_bwsj_roi_v2_singularity.sh) shows an example call with singularity.
 * [`03mvpa/run_sl_roi.py`](scripts/03mvpa/run_sl_roi.py) contains some additional functions needed for ROI decoding.
 
 Within-subject searchlight decoding
+
 * [`03mvpa/run_sl.py`](scripts/03mvpa/run_sl.py) runs within-subject whole-brain searchlight decoding.
 * [`03mvpa/run_sl_blockrun_singularity.sh`](scripts/03mvpa/run_sl_blockrun_singularity.sh) shows an example call with singularity.
 * [`03mvpa/run_sl_blockrun_permutation_singularity.sh`](scripts/03mvpa/run_sl_blockrun_permutation_singularity.sh) shows an example call with singularity to generate permuted maps.
 
 Cross-validated RSA
+
 * [`03mvpa/run_sl_cvrsa.py`](scripts/03mvpa/run_sl_cvrsa.py) runs within-subject searchlight cross-validated RSA.
 * [`03mvpa/run_sl_cvrsa_blockrun_singularity.sh`](scripts/03mvpa/run_sl_cvrsa_blockrun_singularity.sh) shows an example call with singularity.
 * [`03mvpa/run_rsa_target.py`](scripts/03mvpa/run_rsa_target.py) runs model-based RSA by comparing the cross-validated brain RDMs with model RDMs.
@@ -82,6 +86,7 @@ Cross-validated RSA
 #### Statistics
 
 Permutation testing for between-subject MVPC
+
 * [`04stat/run_permtest_bootstrap.py`](scripts/04stat/run_permtest_bootstrap.py) runs permutation testing with bootstrapping.
 * [`04stat/run_permtest_bwsbj_bootstrap_singularity.sh`](scripts/04stat/run_permtest_bwsbj_bootstrap_singularity.sh) shows an example call with singularity.
 * [`04stat/make_fam-diff_bwsj_identity.sh`](scripts/04stat/make_fam-diff_bwsj_identity.sh) creates difference maps (familiar - visual) from precomputed accuracy maps.
@@ -89,6 +94,7 @@ Permutation testing for between-subject MVPC
 * [`04stat/make-maskfdrval-diff-identity-bsmvpc.sh`](scripts/04stat/make-maskfdrval-diff-identity-bsmvpc.sh) makes a mask that highlights significant nodes for the familiar - visual difference map.
 
 Threshold-Free Cluster Enhancement for within-subject MVPC and RSA
+
 * [`04stat/run_tfce_fsaverage6_cosmo.m`](scripts/04stat/run_tfce_fsaverage6_cosmo.m) runs the CoSMoMVPA TFCE code for within-subject MVPC.
 * [`04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh`](scripts/04stat/run_tfce_fsaverage6_cosmo_blockrun_hpalsubjs_singularity.sh) shows an example call with singularity.
 * [`04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh`](scripts/04stat/make_thresholded_avg_blockrun_fsaverage6-hpal.sh) creates thresholded maps based on the TFCE values.
