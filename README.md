@@ -66,6 +66,7 @@ Between-subject searchlight decoding
 Between-subject ROI decoding
 * [`03mvpa/run_bwsj_roi_v2.py`](scripts/03mvpa/run_bwsj_roi_v2.py) runs between-subject decoding analyses within manually defined ROIs.
 * [`03mvpa/run_bwsj_roi_v2_singularity.sh`](scripts/03mvpa/run_bwsj_roi_v2_singularity.sh) shows an example call with singularity.
+* [`03mvpa/run_sl_roi.py`](scripts/03mvpa/run_sl_roi.py) contains some additional functions needed for ROI decoding.
 
 Within-subject searchlight decoding
 * [`03mvpa/run_sl.py`](scripts/03mvpa/run_sl.py) runs within-subject whole-brain searchlight decoding.
