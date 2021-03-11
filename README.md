@@ -35,7 +35,7 @@ This folder contains the following scripts
 
 #### Preprocessing
 * [`00preproc/run-fmriprep103-singularity.sh`](scripts/00preproc/run-fmriprep103-singularity.sh) calls fmriprep to preprocess the data.
-* [`00preproc/prepare-fsaverage6-suma.sh`](scripts/00preproc/prepare-fsaverage6-suma.sh) prepares the *fsaverage6* to be used with SUMA.
+* [`00preproc/prepare-fsaverage6-suma.sh`](scripts/00preproc/prepare-fsaverage6-suma.sh) prepares the *fsaverage6* surfaces to be used with SUMA.
 * [`00preproc/make-maskmedial-fsaverage6.sh`](scripts/00preproc/make-maskmedial-fsaverage6.sh) creates a mask in NIML format to remove medial nodes in *fsaverage6*.
 
 #### Hyperalignment
