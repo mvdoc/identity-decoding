@@ -1,6 +1,6 @@
-# [TITLE]
+# Shared neural codes for visual and semantic information about familiar faces in a common representational space
 
-This repository contains the code for the analyses reported in *[TITLE]* by Matteo Visconti di Oleggio Castello, James V. Haxby, & M. Ida Gobbini.
+This repository contains the code for the analyses reported in *Shared neural codes for visual and semantic information about familiar faces in a common representational space* by Matteo Visconti di Oleggio Castello, James V. Haxby, & M. Ida Gobbini.
 
 **DISCLAIMER** These scripts are shared in a format that is suitable for archival and review. All analyses were run inside a singularity container (shared in the current repository) on a local cluster and on [Discovery, Dartmouth's HPC cluster](https://rc.dartmouth.edu/index.php/discovery-overview/). The paths listed in these scripts need to be modified in order to run the scripts on a different system.
 
