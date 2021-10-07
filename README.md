@@ -1,14 +1,25 @@
 # Shared neural codes for visual and semantic information about familiar faces in a common representational space
 
-This repository contains the code for the analyses reported in *Shared neural codes for visual and semantic information about familiar faces in a common representational space* by Matteo Visconti di Oleggio Castello, James V. Haxby, & M. Ida Gobbini.
+This repository contains the code for the analyses reported in *Shared neural codes for visual and semantic information about familiar faces in a common representational space* by Matteo Visconti di Oleggio Castello, James V. Haxby, & M. Ida Gobbini published in the *Proceedings of the National Academy of Sciences*.
 
-**DISCLAIMER** These scripts are shared in a format that is suitable for archival and review. All analyses were run inside a singularity container (shared in the current repository) on a local cluster and on [Discovery, Dartmouth's HPC cluster](https://rc.dartmouth.edu/index.php/discovery-overview/). The paths listed in these scripts need to be modified in order to run the scripts on a different system.
+The reference for the associated publication is 
 
-**If you have any questions related to the code, please open an issue in this repository.**
+> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space *Proceedings of the National Academy of Sciences* (in press).
+
+This repository can be cited as
+> XXX ADD ZENODO DOI
+
+## Disclaimer & how to get help
+These scripts are shared in a format that is suitable for archival and review. All analyses were run inside a singularity container (shared in the current repository) on a local cluster and on [Discovery, Dartmouth's HPC cluster](https://rc.dartmouth.edu/index.php/discovery-overview/). The paths listed in these scripts need to be modified in order to run the scripts on a different system.
+
+**If you have any questions related to the code, please open an issue in this repository or contact us via email (see corresponding author in the publication).**
 
 ## Data
 
-The raw data and its derivatives will be released on OpenNeuro after publication. We will update this section with more information on how to download the data.
+The raw data is available on OpenNeuro as the dataset `ds003833`: [https://openneuro.org/datasets/ds003833](https://openneuro.org/datasets/ds003833).
+If you use the data, please cite the corresponding publication:
+
+> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space. *Proceedings of the National Academy of Sciences* (in press).
 
 ## Repository structure
 
