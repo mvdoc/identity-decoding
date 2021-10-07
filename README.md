@@ -108,3 +108,7 @@ Threshold-Free Cluster Enhancement for within-subject MVPC and RSA
 #### Visualization
 
 * [`05viz/drive-suma-blockrun-fsaverage6-group-hpal.sh`](scripts/05viz/drive-suma-blockrun-fsaverage6-group-hpal.sh) shows an example call to `DriveSuma` to generate surface plots.
+
+# Acknowledgements
+
+This work was supported by the NSF grant #1835200 to M. Ida Gobbini. We would like to thank Swaroop Guntupalli, Yaroslav Halchenko, Carlo Cipolli, and the members of the Gobbini and Haxby lab for helpful discussions during the development of this project.
