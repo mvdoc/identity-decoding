@@ -16,7 +16,7 @@ These scripts are shared in a format that is suitable for archival and review. A
 
 ## Data
 
-The raw data is available on OpenNeuro as the dataset `ds003833`: [https://openneuro.org/datasets/ds003833](https://openneuro.org/datasets/ds003833).
+The raw data is available on OpenNeuro as the dataset `ds003834`: [https://openneuro.org/datasets/ds003834](https://openneuro.org/datasets/ds003834).
 If you use the data, please cite the corresponding publication:
 
 > Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space. *Proceedings of the National Academy of Sciences* (in press).
