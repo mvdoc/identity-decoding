@@ -4,7 +4,7 @@ This repository contains the code for the analyses reported in *Shared neural co
 
 The reference for the associated publication is 
 
-> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space *Proceedings of the National Academy of Sciences* (in press).
+> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space *Proceedings of the National Academy of Sciences* (2021). https://doi.org/10.1073/pnas.2110474118
 
 This repository can be cited as
 > XXX ADD ZENODO DOI
