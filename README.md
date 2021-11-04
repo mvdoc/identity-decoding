@@ -7,7 +7,11 @@ The reference for the associated publication is
 > Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space *Proceedings of the National Academy of Sciences* (2021). https://doi.org/10.1073/pnas.2110474118
 
 This repository can be cited as
-> XXX ADD ZENODO DOI
+> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. (2021). mvdoc/identity-decoding. *Zenodo*. https://doi.org/10.5281/zenodo.5645003
+
+[![DOI](https://zenodo.org/badge/344613702.svg)](https://zenodo.org/badge/latestdoi/344613702)
+
+
 
 ## Disclaimer & how to get help
 These scripts are shared in a format that is suitable for archival and review. All analyses were run inside a singularity container (shared in the current repository) on a local cluster and on [Discovery, Dartmouth's HPC cluster](https://rc.dartmouth.edu/index.php/discovery-overview/). The paths listed in these scripts need to be modified in order to run the scripts on a different system.
@@ -19,7 +23,7 @@ These scripts are shared in a format that is suitable for archival and review. A
 The raw data is available on OpenNeuro as the dataset `ds003834`: [https://openneuro.org/datasets/ds003834](https://openneuro.org/datasets/ds003834).
 If you use the data, please cite the corresponding publication:
 
-> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space. *Proceedings of the National Academy of Sciences* (in press).
+> Visconti di Oleggio Castello, M., Haxby, J. V., & Gobbini, M. I. Shared neural codes for visual and semantic information about familiar faces in a common representational space. *Proceedings of the National Academy of Sciences* (2021). https://doi.org/10.5281/zenodo.5645003
 
 ## Repository structure
 
